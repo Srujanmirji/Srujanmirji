@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://twitter.com/srujanmirji10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srujanmirji10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/srujanmirji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srujanmirji" height="30" width="40" /></a>
-<a href="https://instagram.com/srujan.og" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srujan.og" height="30" width="40" /></a>
+<a href="https://instagram.com/srujan_mirji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srujan_mirji" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
