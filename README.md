@@ -49,8 +49,8 @@
 <!-- GitHub Stats Section -->
 <h3 align="center">📈 My GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srujanmirji&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF" alt="Srujan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujanmirji&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF" alt="Srujan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF" alt="Top Languages" />
 </p>
 
 <br/>
