@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5FF,50:6A5CFF,100:FF00FF&text=SRUJAN%20MIRJI&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Java%20|%20DSA%20|%20FinTech&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5FF,50:6A5CFF,100:FF00FF&text=SRUJAN%20MIRJI&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20⚡%20Java%20⚡%20DSA%20⚡%20FinTech&descAlignY=65"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Srujan+Mirji;🚀+Full+Stack+Developer;⚡+Java+%7C+Spring+Boot+%7C+React;💻+Building+Cool+Projects;🔥+Future+FinTech+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Srujan+Mirji;🚀+Full+Stack+Developer;⚡+Java+%7C+Spring+Boot+%7C+React;🔥+Building+Awesome+Projects;💻+Code.+Build.+Scale."/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00F5FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=srujanmirji&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"/>
 
 </div>
 
@@ -12,14 +12,14 @@
 
 # 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ```yaml
 Name: Srujan Mirji
 Location: India 🇮🇳
 Degree: B.Tech CSE
 
-Currently Learning:
+Learning:
   - Java
   - Spring Boot
   - React
@@ -35,7 +35,7 @@ Interests:
 Goal:
   - Build Products
   - Get Remote Opportunities
-  - Create Tech Startups
+  - Create Successful Startups
 ```
 
 ---
@@ -44,25 +44,66 @@ Goal:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mongodb,postgres,mysql,docker,git,github,linux,html,css,js,python,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mongodb,mysql,postgres,docker,git,github,linux,html,css,js,python,vscode&perline=8"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Current Focus
+
+<table>
+<tr>
+<td align="center">
+
+### ☕ Backend
+
+Java  
+Spring Boot  
+REST APIs  
+Microservices
+
+</td>
+
+<td align="center">
+
+### 🎨 Frontend
+
+React  
+JavaScript  
+HTML5  
+CSS3
+
+</td>
+
+<td align="center">
+
+### 🧠 DSA
+
+Arrays  
+Trees  
+Graphs  
+Dynamic Programming
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srujanmirji&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujanmirji&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=srujanmirji&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -72,7 +113,7 @@ Goal:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srujanmirji&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -82,41 +123,22 @@ Goal:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=srujanmirji&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-<h3 align="center">SubTracker</h3>
-<div align="center">
-Subscription Management Platform with Analytics, CSV Export, Search, Filter and Dashboard.
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">Cyber Security Toolkit</h3>
-<div align="center">
-Security Scanner, Vulnerability Detection, URL Analysis and Threat Monitoring Platform.
-</div>
-</td>
-
-</tr>
-</table>
-
----
-
-# 🐍 Contribution Snake
+# 🔥 Featured Projects
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+| Project | Description |
+|----------|-------------|
+| 🚀 SubTracker | Subscription Management Platform |
+| 🛡️ Cyber Security Toolkit | Vulnerability Scanner & Security Dashboard |
+| 🤖 AI Projects | Machine Learning & Automation |
+| 📊 FinTech Apps | Finance & Stock Market Tools |
 
 </div>
 
@@ -126,15 +148,15 @@ Security Scanner, Vulnerability Detection, URL Analysis and Threat Monitoring Pl
 
 <div align="center">
 
-<a href="https://instagram.com/srujan_mirji" target="_blank">
+<a href="https://instagram.com/srujan_mirji">
 <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/srujanmirji10" target="_blank">
+<a href="https://twitter.com/srujanmirji10">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/srujanmirji" target="_blank">
+<a href="https://linkedin.com/in/srujanmirji">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
