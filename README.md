@@ -4,94 +4,39 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Srujan+Mirji;🚀+Full+Stack+Developer;⚡+Java+%7C+Spring+Boot+%7C+React;🔥+Building+Awesome+Projects;💻+Code.+Build.+Scale."/>
 
-<img src="https://komarev.com/ghpvc/?username=srujanmirji&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"/>
-
 </div>
 
----
-
-# 👨‍💻 About Me
-
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<h1 align="center">⚡ About Me</h1>
 
 ```yaml
 Name: Srujan Mirji
 Location: India 🇮🇳
 Degree: B.Tech CSE
 
-Learning:
+Currently Learning:
   - Java
   - Spring Boot
   - React
   - DSA
   - Docker
+  - PostgreSQL
 
-Interests:
+Interested In:
   - Full Stack Development
   - FinTech
-  - AI
   - Startups
-
-Goal:
-  - Build Products
-  - Get Remote Opportunities
-  - Create Successful Startups
+  - AI
 ```
 
----
-
-# ⚡ Tech Stack
+<h1 align="center">🛠 Tech Stack</h1>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mongodb,mysql,postgres,docker,git,github,linux,html,css,js,python,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mongodb,postgres,mysql,docker,git,github,linux,html,css,js,python,vscode&perline=8"/>
 
 </div>
 
----
-
-# 🚀 Current Focus
-
-<table>
-<tr>
-<td align="center">
-
-### ☕ Backend
-
-Java  
-Spring Boot  
-REST APIs  
-Microservices
-
-</td>
-
-<td align="center">
-
-### 🎨 Frontend
-
-React  
-JavaScript  
-HTML5  
-CSS3
-
-</td>
-
-<td align="center">
-
-### 🧠 DSA
-
-Arrays  
-Trees  
-Graphs  
-Dynamic Programming
-
-</td>
-</tr>
-</table>
-
----
-
-# 📊 GitHub Analytics
+<h1 align="center">📊 GitHub Stats</h1>
 
 <div align="center">
 
@@ -101,50 +46,48 @@ Dynamic Programming
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=srujanmirji&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srujanmirji&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srujanmirji&theme=tokyonight"/>
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
+<br>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=srujanmirji&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srujanmirji&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srujanmirji&theme=tokyonight"/>
 
 </div>
 
----
+<br>
 
-# 🔥 Featured Projects
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srujanmirji&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srujanmirji&theme=tokyonight"/>
+
+</div>
+
+<h1 align="center">🚀 Featured Projects</h1>
 
 <div align="center">
 
 | Project | Description |
 |----------|-------------|
 | 🚀 SubTracker | Subscription Management Platform |
-| 🛡️ Cyber Security Toolkit | Vulnerability Scanner & Security Dashboard |
-| 🤖 AI Projects | Machine Learning & Automation |
-| 📊 FinTech Apps | Finance & Stock Market Tools |
+| 🛡️ Cyber Security Toolkit | Security Scanner & Dashboard |
+| 🤖 AI Projects | AI & Automation Projects |
+| 📈 FinTech Apps | Finance & Stock Market Tools |
 
 </div>
 
----
-
-# 🌐 Connect With Me
+<h1 align="center">🌐 Connect With Me</h1>
 
 <div align="center">
 
@@ -162,12 +105,12 @@ Dynamic Programming
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### ⚡ CODE • LEARN • BUILD • REPEAT ⚡
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F5FF,50:6A5CFF,100:FF00FF"/>
+
+### ⚡ CODE • LEARN • BUILD • REPEAT ⚡
 
 </div>
