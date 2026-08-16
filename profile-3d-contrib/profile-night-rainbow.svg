@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">3D Contribution Matrix</title>
+  <desc id="desc">Initial holographic contribution skyline. GitHub Actions will replace it with Srujan Mirji's live contribution data after the first workflow run.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y2="1"><stop stop-color="#050713"/><stop offset="1" stop-color="#0b1025"/></linearGradient>
+    <linearGradient id="top" x1="0" x2="1"><stop stop-color="#00f5ff"/><stop offset="1" stop-color="#b46cff"/></linearGradient>
+    <linearGradient id="left" x1="0" x2="1" y2="1"><stop stop-color="#0b8ea8"/><stop offset="1" stop-color="#202b6a"/></linearGradient>
+    <linearGradient id="right" x1="0" x2="1" y2="1"><stop stop-color="#7c47ce"/><stop offset="1" stop-color="#241344"/></linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="b"/><feFlood flood-color="#00f5ff" flood-opacity=".65"/><feComposite in2="b" operator="in"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7c72ff" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1200" height="430" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="430" rx="26" fill="url(#grid)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="54" y="63" fill="#effcff" font-size="24" font-weight="800" letter-spacing="4">3D CONTRIBUTION MATRIX</text>
+    <circle cx="58" cy="92" r="4" fill="#ffc857"><animate attributeName="opacity" values="1;.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="72" y="97" fill="#8f9bb8" font-size="12" font-family="monospace" letter-spacing="1.4">AWAITING FIRST LIVE RENDER • WORKFLOW ARMED</text>
+  </g>
+  <g fill="none" stroke="#7767ff" stroke-opacity=".25">
+    <path d="M600 135L60 382M600 135L220 382M600 135L380 382M600 135L540 382M600 135L700 382M600 135L860 382M600 135L1020 382M600 135L1165 382"/>
+    <path d="M390 230H810M285 278H915M180 326H1020M75 374H1125"/>
+  </g>
+  <!-- honest placeholder prisms; the scheduled action replaces this file with real contribution data -->
+  <g opacity=".88">
+    <g transform="translate(246 296)"><polygon points="0,-8 14,0 0,8 -14,0" fill="url(#top)"/><polygon points="-14,0 0,8 0,38 -14,30" fill="url(#left)"/><polygon points="14,0 0,8 0,38 14,30" fill="url(#right)"/></g>
+    <g transform="translate(321 272)"><polygon points="0,-8 14,0 0,8 -14,0" fill="url(#top)"/><polygon points="-14,0 0,8 0,58 -14,50" fill="url(#left)"/><polygon points="14,0 0,8 0,58 14,50" fill="url(#right)"/></g>
+    <g transform="translate(396 301)"><polygon points="0,-8 14,0 0,8 -14,0" fill="url(#top)"/><polygon points="-14,0 0,8 0,32 -14,24" fill="url(#left)"/><polygon points="14,0 0,8 0,32 14,24" fill="url(#right)"/></g>
+    <g transform="translate(471 238)"><polygon points="0,-8 14,0 0,8 -14,0" fill="url(#top)" filter="url(#glow)"/><polygon points="-14,0 0,8 0,82 -14,74" fill="url(#left)"/><polygon points="14,0 0,8 0,82 14,74" fill="url(#right)"/></g>
+    <g transform="translate(546 282)"><polygon points="0,-8 14,0 0,8 -14,0" fill="url(#top)"/><polygon points="-14,0 0,8 0,45 -14,37" fill="url(#left)"/><polygon points="14,0 0,8 0,45 14,37" fill="url(#right)"/></g>
+    <g transform="translate(621 208)"><polygon points="0,-8 14,0 0,8 -14,0" fill="url(#top)" filter="url(#glow)"/><polygon points="-14,0 0,8 0,112 -14,104" fill="url(#left)"/><polygon points="14,0 0,8 0,112 14,104" fill="url(#right)"/></g>
+    <g transform="translate(696 257)"><polygon points="0,-8 14,0 0,8 -14,0" fill="url(#top)"/><polygon points="-14,0 0,8 0,68 -14,60" fill="url(#left)"/><polygon points="14,0 0,8 0,68 14,60" fill="url(#right)"/></g>
+    <g transform="translate(771 289)"><polygon points="0,-8 14,0 0,8 -14,0" fill="url(#top)"/><polygon points="-14,0 0,8 0,40 -14,32" fill="url(#left)"/><polygon points="14,0 0,8 0,40 14,32" fill="url(#right)"/></g>
+    <g transform="translate(846 245)"><polygon points="0,-8 14,0 0,8 -14,0" fill="url(#top)"/><polygon points="-14,0 0,8 0,80 -14,72" fill="url(#left)"/><polygon points="14,0 0,8 0,80 14,72" fill="url(#right)"/></g>
+    <g transform="translate(921 306)"><polygon points="0,-8 14,0 0,8 -14,0" fill="url(#top)"/><polygon points="-14,0 0,8 0,28 -14,20" fill="url(#left)"/><polygon points="14,0 0,8 0,28 14,20" fill="url(#right)"/></g>
+  </g>
+  <path d="M45 397H1155" stroke="url(#top)" stroke-opacity=".65"/>
+  <text x="1150" y="414" text-anchor="end" fill="#66718f" font-size="10" font-family="monospace">AUTO-SYNC // DAILY // ASIA-KOLKATA</text>
+</svg>
