@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
-  <title id="title">3D Contribution Matrix</title>
-  <desc id="desc">Initial holographic contribution skyline. GitHub Actions will replace it with Srujan Mirji's live contribution data after the first workflow run.</desc>
+  <title id="title">3D Developer Matrix</title>
+  <desc id="desc">A custom holographic 3D skyline representing Srujan Mirji's code, product, motion, and intelligence practice.</desc>
   <defs>
     <linearGradient id="bg" x1="0" x2="1" y2="1"><stop stop-color="#050713"/><stop offset="1" stop-color="#0b1025"/></linearGradient>
     <linearGradient id="top" x1="0" x2="1"><stop stop-color="#00f5ff"/><stop offset="1" stop-color="#b46cff"/></linearGradient>
@@ -12,15 +12,15 @@
   <rect width="1200" height="430" rx="26" fill="url(#bg)"/>
   <rect width="1200" height="430" rx="26" fill="url(#grid)"/>
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="54" y="63" fill="#effcff" font-size="24" font-weight="800" letter-spacing="4">3D CONTRIBUTION MATRIX</text>
-    <circle cx="58" cy="92" r="4" fill="#ffc857"><animate attributeName="opacity" values="1;.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
-    <text x="72" y="97" fill="#8f9bb8" font-size="12" font-family="monospace" letter-spacing="1.4">AWAITING FIRST LIVE RENDER • WORKFLOW ARMED</text>
+    <text x="54" y="63" fill="#effcff" font-size="24" font-weight="800" letter-spacing="4">3D DEVELOPER MATRIX</text>
+    <circle cx="58" cy="92" r="4" fill="#00f5b8"><animate attributeName="opacity" values="1;.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="72" y="97" fill="#8f9bb8" font-size="12" font-family="monospace" letter-spacing="1.4">CREATIVE SYSTEM ONLINE • BUILD MODE ACTIVE</text>
   </g>
   <g fill="none" stroke="#7767ff" stroke-opacity=".25">
     <path d="M600 135L60 382M600 135L220 382M600 135L380 382M600 135L540 382M600 135L700 382M600 135L860 382M600 135L1020 382M600 135L1165 382"/>
     <path d="M390 230H810M285 278H915M180 326H1020M75 374H1125"/>
   </g>
-  <!-- honest placeholder prisms; the scheduled action replaces this file with real contribution data -->
+  <!-- Abstract isometric build skyline -->
   <g opacity=".88">
     <g transform="translate(246 296)"><polygon points="0,-8 14,0 0,8 -14,0" fill="url(#top)"/><polygon points="-14,0 0,8 0,38 -14,30" fill="url(#left)"/><polygon points="14,0 0,8 0,38 14,30" fill="url(#right)"/></g>
     <g transform="translate(321 272)"><polygon points="0,-8 14,0 0,8 -14,0" fill="url(#top)"/><polygon points="-14,0 0,8 0,58 -14,50" fill="url(#left)"/><polygon points="14,0 0,8 0,58 14,50" fill="url(#right)"/></g>
@@ -34,5 +34,5 @@
     <g transform="translate(921 306)"><polygon points="0,-8 14,0 0,8 -14,0" fill="url(#top)"/><polygon points="-14,0 0,8 0,28 -14,20" fill="url(#left)"/><polygon points="14,0 0,8 0,28 14,20" fill="url(#right)"/></g>
   </g>
   <path d="M45 397H1155" stroke="url(#top)" stroke-opacity=".65"/>
-  <text x="1150" y="414" text-anchor="end" fill="#66718f" font-size="10" font-family="monospace">AUTO-SYNC // DAILY // ASIA-KOLKATA</text>
+  <text x="1150" y="414" text-anchor="end" fill="#66718f" font-size="10" font-family="monospace">PROFILE ART // CODE × PRODUCT × MOTION</text>
 </svg>
