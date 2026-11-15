@@ -1,0 +1,42 @@
+name: Update Profile Telemetry & 3D Skyline
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate_telemetry.py"
+
+permissions:
+  contents: write
+
+jobs:
+  update-svg-telemetry:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate 3D Contribution Matrix & Telemetry Dashboard SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+          FORCE_FETCH: "1"
+        run: python3 scripts/generate_telemetry.py
+
+      - name: Commit and push updated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/profile-night-rainbow.svg assets/developer-telemetry.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(telemetry): update live 3D contribution skyline & stats SVG"
+            git push
+          fi
