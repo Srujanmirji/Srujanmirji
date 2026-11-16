@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
   <title id="title">3D Developer Contribution Matrix — Srujan Mirji</title>
-  <desc id="desc">Live 3D isometric contribution skyline generated from Srujan Mirji's GitHub activity (1380 annual contributions).</desc>
+  <desc id="desc">Live 3D isometric contribution skyline generated from Srujan Mirji's GitHub activity (1371 annual contributions).</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#040711"/>
@@ -51,7 +51,7 @@
   <g font-family="monospace" transform="translate(650, 32)">
     <rect x="0" y="0" width="165" height="54" rx="12" fill="#0b1329" stroke="#00f5ff" stroke-opacity="0.45"/>
     <text x="16" y="21" fill="#7f91b8" font-size="10" letter-spacing="1">ANNUAL OUTPUT</text>
-    <text x="16" y="42" fill="#00f5ff" font-size="20" font-weight="700">1,380</text>
+    <text x="16" y="42" fill="#00f5ff" font-size="20" font-weight="700">1,371</text>
 
     <rect x="180" y="0" width="160" height="54" rx="12" fill="#0b1329" stroke="#a879ff" stroke-opacity="0.45"/>
     <text x="196" y="21" fill="#7f91b8" font-size="10" letter-spacing="1">ACTIVE DAYS</text>
@@ -314,7 +314,8 @@
     <g><polygon points="892.8,312.3 900.0,316.2 900.0,398.5 892.8,394.6" fill="url(#leftMid)"/><polygon points="907.2,312.3 900.0,316.2 900.0,398.5 907.2,394.6" fill="url(#rightMid)"/><polygon points="900.0,308.4 907.2,312.3 900.0,316.2 892.8,312.3" fill="url(#topMid)" stroke="#7df9ff" stroke-width="0.45" stroke-opacity="0.75"/></g>
     <g><polygon points="881.3,362.0 888.5,365.9 888.5,407.7 881.3,403.8" fill="url(#leftLow)"/><polygon points="895.7,362.0 888.5,365.9 888.5,407.7 895.7,403.8" fill="url(#rightLow)"/><polygon points="888.5,358.2 895.7,362.0 888.5,365.9 881.3,362.0" fill="url(#topLow)" stroke="#38bdf8" stroke-width="0.45" stroke-opacity="0.75"/></g>
     <g><polygon points="869.8,409.0 877.0,412.9 877.0,416.9 869.8,413.0" fill="#0a1024"/><polygon points="884.2,409.0 877.0,412.9 877.0,416.9 884.2,413.0" fill="#070b1a"/><polygon points="877.0,405.1 884.2,409.0 877.0,412.9 869.8,409.0" fill="#111936" stroke="#26335e" stroke-width="0.45" stroke-opacity="0.75"/></g>
-    <g><polygon points="960.3,341.8 967.5,345.7 967.5,365.9 960.3,362.0" fill="url(#leftLow)"/><polygon points="974.7,341.8 967.5,345.7 967.5,365.9 974.7,362.0" fill="url(#rightLow)"/><polygon points="967.5,337.9 974.7,341.8 967.5,345.7 960.3,341.8" fill="url(#topLow)" stroke="#38bdf8" stroke-width="0.45" stroke-opacity="0.75"/></g>
+    <g><polygon points="960.3,304.3 967.5,308.2 967.5,365.9 960.3,362.0" fill="url(#leftMid)"/><polygon points="974.7,304.3 967.5,308.2 967.5,365.9 974.7,362.0" fill="url(#rightMid)"/><polygon points="967.5,300.4 974.7,304.3 967.5,308.2 960.3,304.3" fill="url(#topMid)" stroke="#7df9ff" stroke-width="0.45" stroke-opacity="0.75"/></g>
+    <g><polygon points="948.8,367.2 956.0,371.1 956.0,375.1 948.8,371.2" fill="#0a1024"/><polygon points="963.2,367.2 956.0,371.1 956.0,375.1 963.2,371.2" fill="#070b1a"/><polygon points="956.0,363.3 963.2,367.2 956.0,371.1 948.8,367.2" fill="#111936" stroke="#26335e" stroke-width="0.45" stroke-opacity="0.75"/></g>
   </g>
 
   <!-- Bottom HUD Footer -->
