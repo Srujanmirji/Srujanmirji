@@ -316,6 +316,7 @@
     <g><polygon points="869.8,409.0 877.0,412.9 877.0,416.9 869.8,413.0" fill="#0a1024"/><polygon points="884.2,409.0 877.0,412.9 877.0,416.9 884.2,413.0" fill="#070b1a"/><polygon points="877.0,405.1 884.2,409.0 877.0,412.9 869.8,409.0" fill="#111936" stroke="#26335e" stroke-width="0.45" stroke-opacity="0.75"/></g>
     <g><polygon points="960.3,304.3 967.5,308.2 967.5,365.9 960.3,362.0" fill="url(#leftMid)"/><polygon points="974.7,304.3 967.5,308.2 967.5,365.9 974.7,362.0" fill="url(#rightMid)"/><polygon points="967.5,300.4 974.7,304.3 967.5,308.2 960.3,304.3" fill="url(#topMid)" stroke="#7df9ff" stroke-width="0.45" stroke-opacity="0.75"/></g>
     <g><polygon points="948.8,367.2 956.0,371.1 956.0,375.1 948.8,371.2" fill="#0a1024"/><polygon points="963.2,367.2 956.0,371.1 956.0,375.1 963.2,371.2" fill="#070b1a"/><polygon points="956.0,363.3 963.2,367.2 956.0,371.1 948.8,367.2" fill="#111936" stroke="#26335e" stroke-width="0.45" stroke-opacity="0.75"/></g>
+    <g><polygon points="937.3,376.4 944.5,380.3 944.5,384.3 937.3,380.4" fill="#0a1024"/><polygon points="951.7,376.4 944.5,380.3 944.5,384.3 951.7,380.4" fill="#070b1a"/><polygon points="944.5,372.5 951.7,376.4 944.5,380.3 937.3,376.4" fill="#111936" stroke="#26335e" stroke-width="0.45" stroke-opacity="0.75"/></g>
   </g>
 
   <!-- Bottom HUD Footer -->
