@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="550" viewBox="0 0 1200 550" role="img" aria-labelledby="title desc">
   <title id="title">Srujan Mirji — Developer Telemetry &amp; Contribution Activity</title>
-  <desc id="desc">GitHub telemetry card displaying 1344 annual contributions, 1245 commits, 61 pull requests, 41 repositories, and a 52-week contribution activity graph.</desc>
+  <desc id="desc">GitHub telemetry card displaying 1354 annual contributions, 1254 commits, 61 pull requests, 42 repositories, and a 52-week contribution activity graph.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#050814"/>
@@ -41,19 +41,19 @@
 
   <g font-family="monospace" font-size="13">
     <text x="64" y="108" fill="#9fb0d6">Annual Contributions</text>
-    <text x="315" y="108" text-anchor="end" fill="#ffffff" font-weight="700" font-size="15">1,344</text>
+    <text x="315" y="108" text-anchor="end" fill="#ffffff" font-weight="700" font-size="15">1,354</text>
 
     <text x="64" y="138" fill="#9fb0d6">Commits (12 Months)</text>
-    <text x="315" y="138" text-anchor="end" fill="#00f5ff" font-weight="700" font-size="15">1,245</text>
+    <text x="315" y="138" text-anchor="end" fill="#00f5ff" font-weight="700" font-size="15">1,254</text>
 
     <text x="64" y="168" fill="#9fb0d6">Pull Requests Merged</text>
     <text x="315" y="168" text-anchor="end" fill="#c8a8ff" font-weight="700" font-size="15">61</text>
 
     <text x="64" y="198" fill="#9fb0d6">Public &amp; Private Repos</text>
-    <text x="315" y="198" text-anchor="end" fill="#ff7ae2" font-weight="700" font-size="15">41</text>
+    <text x="315" y="198" text-anchor="end" fill="#ff7ae2" font-weight="700" font-size="15">42</text>
 
     <text x="64" y="228" fill="#9fb0d6">Active Repo Footprint</text>
-    <text x="315" y="228" text-anchor="end" fill="#5eead4" font-weight="700" font-size="15">40 repos</text>
+    <text x="315" y="228" text-anchor="end" fill="#5eead4" font-weight="700" font-size="15">41 repos</text>
   </g>
 
   <!-- Grade / Status Ring on Right of Left Card -->
@@ -81,25 +81,25 @@
 
     <rect x="956" y="88" width="178" height="76" rx="12" fill="#0d1630" stroke="#ff4fd8" stroke-opacity="0.3"/>
     <text x="974" y="113" fill="#8596bd" font-size="10.5">ACTIVE BUILD DAYS</text>
-    <text x="974" y="145" fill="#ff7ae2" font-size="24" font-weight="800">245 <tspan font-size="12" fill="#9fb0d6">/ 365d</tspan></text>
+    <text x="974" y="145" fill="#ff7ae2" font-size="24" font-weight="800">247 <tspan font-size="12" fill="#9fb0d6">/ 365d</tspan></text>
   </g>
 
   <text x="580" y="187" fill="#8596bd" font-size="10.5" font-family="monospace" letter-spacing="1">DOMINANT REPOSITORY LANGUAGES</text>
-    <rect x="580.0" y="198" width="312.0" height="10" rx="4" fill="#00F5FF"/>
-    <rect x="895.0" y="198" width="87.0" height="10" rx="4" fill="#FACC15"/>
-    <rect x="985.0" y="198" width="57.0" height="10" rx="4" fill="#FF4FD8"/>
-    <rect x="1045.0" y="198" width="42.0" height="10" rx="4" fill="#A879FF"/>
-    <rect x="1090.0" y="198" width="27.0" height="10" rx="4" fill="#38BDF8"/>
-    <circle cx="580" cy="228" r="4.5" fill="#00F5FF"/><text x="590" y="232" fill="#d4dfff" font-size="11.5" font-family="monospace">TypeScript 58%</text>
-    <circle cx="692" cy="228" r="4.5" fill="#FACC15"/><text x="702" y="232" fill="#d4dfff" font-size="11.5" font-family="monospace">JavaScript 17%</text>
-    <circle cx="804" cy="228" r="4.5" fill="#FF4FD8"/><text x="814" y="232" fill="#d4dfff" font-size="11.5" font-family="monospace">HTML 11%</text>
+    <rect x="580.0" y="198" width="303.5" height="10" rx="4" fill="#00F5FF"/>
+    <rect x="886.5" y="198" width="84.6" height="10" rx="4" fill="#FACC15"/>
+    <rect x="974.1" y="198" width="70.0" height="10" rx="4" fill="#FF4FD8"/>
+    <rect x="1047.1" y="198" width="40.8" height="10" rx="4" fill="#A879FF"/>
+    <rect x="1090.9" y="198" width="26.1" height="10" rx="4" fill="#38BDF8"/>
+    <circle cx="580" cy="228" r="4.5" fill="#00F5FF"/><text x="590" y="232" fill="#d4dfff" font-size="11.5" font-family="monospace">TypeScript 57%</text>
+    <circle cx="692" cy="228" r="4.5" fill="#FACC15"/><text x="702" y="232" fill="#d4dfff" font-size="11.5" font-family="monospace">JavaScript 16%</text>
+    <circle cx="804" cy="228" r="4.5" fill="#FF4FD8"/><text x="814" y="232" fill="#d4dfff" font-size="11.5" font-family="monospace">HTML 14%</text>
     <circle cx="916" cy="228" r="4.5" fill="#A879FF"/><text x="926" y="232" fill="#d4dfff" font-size="11.5" font-family="monospace">Python 8%</text>
-    <circle cx="1028" cy="228" r="4.5" fill="#38BDF8"/><text x="1038" y="232" fill="#d4dfff" font-size="11.5" font-family="monospace">CSS 6%</text>
+    <circle cx="1028" cy="228" r="4.5" fill="#38BDF8"/><text x="1038" y="232" fill="#d4dfff" font-size="11.5" font-family="monospace">CSS 5%</text>
 
   <!-- BOTTOM CARD: 52-WEEK CONTRIBUTION WAVE -->
   <rect x="36" y="278" width="1128" height="238" rx="18" fill="url(#cardBg)" stroke="#7c5cff" stroke-opacity="0.35"/>
   <text x="64" y="314" fill="#effcff" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="2.4">03 // 52-WEEK CONTRIBUTION ACTIVITY WAVE</text>
-  <text x="1134" y="314" text-anchor="end" fill="#8f9bb8" font-size="11" font-family="monospace">PEAK WEEK: 156 CONTRIBUTIONS • TOTAL: 1,344</text>
+  <text x="1134" y="314" text-anchor="end" fill="#8f9bb8" font-size="11" font-family="monospace">PEAK WEEK: 156 CONTRIBUTIONS • TOTAL: 1,354</text>
 
   <!-- Horizontal Guide Lines -->
   <g stroke="#7c72ff" stroke-opacity="0.14" stroke-dasharray="4 4" font-family="monospace" font-size="10" fill="#68789e">
@@ -111,8 +111,8 @@
     <text x="66" y="489" text-anchor="end" stroke="none">0</text>
   </g>
 
-  <path d="M 76.0 467.7 L 96.8 461.9 L 117.6 462.9 L 138.4 455.2 L 159.1 461.9 L 179.9 464.8 L 200.7 453.3 L 221.5 455.2 L 242.3 461.9 L 263.1 473.5 L 283.8 463.8 L 304.6 455.2 L 325.4 455.2 L 346.2 462.9 L 367.0 420.6 L 387.8 448.5 L 408.5 458.1 L 429.3 456.2 L 450.1 468.7 L 470.9 461.9 L 491.7 456.2 L 512.5 467.7 L 533.3 463.8 L 554.0 462.9 L 574.8 467.7 L 595.6 465.8 L 616.4 451.3 L 637.2 479.2 L 658.0 485.0 L 678.7 485.0 L 699.5 485.0 L 720.3 482.1 L 741.1 473.5 L 761.9 467.7 L 782.7 483.1 L 803.5 485.0 L 824.2 485.0 L 845.0 479.2 L 865.8 443.7 L 886.6 463.8 L 907.4 455.2 L 928.2 436.9 L 948.9 468.7 L 969.7 477.3 L 990.5 404.2 L 1011.3 459.0 L 1032.1 453.3 L 1052.9 457.1 L 1073.6 335.0 L 1094.4 440.8 L 1115.2 469.6 L 1136.0 485.0 L 1136.0 485.0 L 76.0 485.0 Z" fill="url(#waveArea)"/>
-  <path d="M 76.0 467.7 L 96.8 461.9 L 117.6 462.9 L 138.4 455.2 L 159.1 461.9 L 179.9 464.8 L 200.7 453.3 L 221.5 455.2 L 242.3 461.9 L 263.1 473.5 L 283.8 463.8 L 304.6 455.2 L 325.4 455.2 L 346.2 462.9 L 367.0 420.6 L 387.8 448.5 L 408.5 458.1 L 429.3 456.2 L 450.1 468.7 L 470.9 461.9 L 491.7 456.2 L 512.5 467.7 L 533.3 463.8 L 554.0 462.9 L 574.8 467.7 L 595.6 465.8 L 616.4 451.3 L 637.2 479.2 L 658.0 485.0 L 678.7 485.0 L 699.5 485.0 L 720.3 482.1 L 741.1 473.5 L 761.9 467.7 L 782.7 483.1 L 803.5 485.0 L 824.2 485.0 L 845.0 479.2 L 865.8 443.7 L 886.6 463.8 L 907.4 455.2 L 928.2 436.9 L 948.9 468.7 L 969.7 477.3 L 990.5 404.2 L 1011.3 459.0 L 1032.1 453.3 L 1052.9 457.1 L 1073.6 335.0 L 1094.4 440.8 L 1115.2 469.6 L 1136.0 485.0" fill="none" stroke="url(#waveLine)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 76.0 467.7 L 96.8 461.9 L 117.6 462.9 L 138.4 455.2 L 159.1 461.9 L 179.9 464.8 L 200.7 453.3 L 221.5 455.2 L 242.3 461.9 L 263.1 473.5 L 283.8 463.8 L 304.6 455.2 L 325.4 455.2 L 346.2 462.9 L 367.0 420.6 L 387.8 448.5 L 408.5 458.1 L 429.3 456.2 L 450.1 468.7 L 470.9 461.9 L 491.7 456.2 L 512.5 467.7 L 533.3 463.8 L 554.0 462.9 L 574.8 467.7 L 595.6 465.8 L 616.4 451.3 L 637.2 479.2 L 658.0 485.0 L 678.7 485.0 L 699.5 485.0 L 720.3 482.1 L 741.1 473.5 L 761.9 467.7 L 782.7 483.1 L 803.5 485.0 L 824.2 485.0 L 845.0 479.2 L 865.8 443.7 L 886.6 463.8 L 907.4 455.2 L 928.2 436.9 L 948.9 468.7 L 969.7 477.3 L 990.5 404.2 L 1011.3 459.0 L 1032.1 453.3 L 1052.9 457.1 L 1073.6 335.0 L 1094.4 440.8 L 1115.2 469.6 L 1136.0 475.4 L 1136.0 485.0 L 76.0 485.0 Z" fill="url(#waveArea)"/>
+  <path d="M 76.0 467.7 L 96.8 461.9 L 117.6 462.9 L 138.4 455.2 L 159.1 461.9 L 179.9 464.8 L 200.7 453.3 L 221.5 455.2 L 242.3 461.9 L 263.1 473.5 L 283.8 463.8 L 304.6 455.2 L 325.4 455.2 L 346.2 462.9 L 367.0 420.6 L 387.8 448.5 L 408.5 458.1 L 429.3 456.2 L 450.1 468.7 L 470.9 461.9 L 491.7 456.2 L 512.5 467.7 L 533.3 463.8 L 554.0 462.9 L 574.8 467.7 L 595.6 465.8 L 616.4 451.3 L 637.2 479.2 L 658.0 485.0 L 678.7 485.0 L 699.5 485.0 L 720.3 482.1 L 741.1 473.5 L 761.9 467.7 L 782.7 483.1 L 803.5 485.0 L 824.2 485.0 L 845.0 479.2 L 865.8 443.7 L 886.6 463.8 L 907.4 455.2 L 928.2 436.9 L 948.9 468.7 L 969.7 477.3 L 990.5 404.2 L 1011.3 459.0 L 1032.1 453.3 L 1052.9 457.1 L 1073.6 335.0 L 1094.4 440.8 L 1115.2 469.6 L 1136.0 475.4" fill="none" stroke="url(#waveLine)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
     <circle cx="76.0" cy="467.7" r="2.5" fill="#00f5ff"/>
     <circle cx="159.1" cy="461.9" r="2.5" fill="#00f5ff"/>
     <circle cx="242.3" cy="461.9" r="2.5" fill="#00f5ff"/>
@@ -126,5 +126,5 @@
     <circle cx="907.4" cy="455.2" r="2.5" fill="#00f5ff"/>
     <circle cx="990.5" cy="404.2" r="4" fill="#ff4fd8" stroke="#ffffff" stroke-width="1.2"/>
     <circle cx="1073.6" cy="335.0" r="4" fill="#ff4fd8" stroke="#ffffff" stroke-width="1.2"/>
-    <circle cx="1136.0" cy="485.0" r="4" fill="#ff4fd8" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="1136.0" cy="475.4" r="4" fill="#ff4fd8" stroke="#ffffff" stroke-width="1.2"/>
 </svg>
